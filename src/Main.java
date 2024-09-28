@@ -8,5 +8,6 @@ class Main{
         System.out.println("git diff command");
         System.out.println("git fetch origin main");
         System.out.println("git pull will fetch from remote repo to local repo then merge local repo and working directoryq");
+        System.out.println("git tag -a <version> -m \"your message\"");
     }
 }
