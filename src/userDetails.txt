@@ -1,2 +1,0 @@
-username: regiduquez
-email: regiduquez@gmail.com
